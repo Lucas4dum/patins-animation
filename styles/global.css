@@ -37,7 +37,7 @@ h2 {
 }
 
 h1 {
-  font-sizing: var(--text-xl);
+  font-size: var(--text-xl);
   line-height: 1.25;
 }
 
